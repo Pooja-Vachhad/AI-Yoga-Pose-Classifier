@@ -73,7 +73,7 @@ Upload an image or video to see real-time pose detection and classification!
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/tumblr-byte/AI-Yoga-Pose-Classifier.git
+git clone https://github.com/Pooja-Vachhad/AI-Yoga-Pose-Classifier.git
 cd AI-Yoga-Pose-Classifier
 
 # Install dependencies
