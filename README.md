@@ -205,7 +205,6 @@ AI-Yoga-Pose-Classifier/
 - [ ] Mobile app deployment (Flutter/React Native)
 - [ ] Pose correction suggestions
 - [ ] Multi-person pose detection
-- [ ] 3D pose visualization
 - [ ] Export workout analytics
 
 
